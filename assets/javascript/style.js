@@ -7,7 +7,7 @@ $(document).ready(function(){
         }, 5000);
     });
 
-    // DISPLAYS MAIN PAGE INFO //
+    // SLIDE IN HIDDEN CLASSES //
     $('.hidden').hide("fast",function(){
         $(".hidden").show(6000);
         });
