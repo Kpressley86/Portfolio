@@ -12,6 +12,9 @@ $(document).ready(function(){
         $(".hidden").show(6000);
         });
 
-
+   
+   $("#logo").click(function(){
+    document.location.href = "./index.html";
+ });
 
 });
