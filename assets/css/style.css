@@ -1,17 +1,51 @@
+.content-container {
+   padding-top: 20px;
+}
 
+.nav-container {
+    padding-top: 100px;
+    padding-right: 250px;
+    font-weight: 800;
+    color:  rgb(0, 255, 200);
+}
 
+/* LINK STYLING */
+a:link {
+    color: rgb(131, 138, 139);
+  }
+  /* visited link */
+  a:visited {
+    color: rgb(131, 138, 139);
+  }
+  /* mouse over link */
+  a:hover {
+    color: rgb(0, 255, 200);
+  }
+  /* selected link */
+  a:active {
+    color: white;
+  }
+/* END LINK STYLING */
 
+#info-container {
+    display: none;
+}
+
+.container-footer {
+    padding-bottom: 15px;
+    font-weight: 200;
+    color: black;
+}
 /* ------------------------------------------------------------------------------------------------------------------------------ */
 /* THIS IS FOR ANIMATED NAME */
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
 
-html, body{
+html, body {
   background-color:  rgb(0, 255, 200);
   height: 100%;
-  font-weight: 800;
 }
 
-.container{
+.container-head {
   background: black;
   font-family: Arial;
 }
