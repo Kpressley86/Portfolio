@@ -40,6 +40,17 @@ a:link {
     padding-top: 100px;
 }
 
+/* ABOUT PAGE */
+.about-img {
+    background-image: url("../images/profile.jpg");
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+h3 {
+
+}
+
 /* CONTACT PAGE*/
 .social {
     max-width: 60px;
