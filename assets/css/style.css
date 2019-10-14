@@ -3,8 +3,8 @@
 }
 
 .nav-container {
-    padding-top: 100px;
-    padding-right: 250px;
+    padding-top: 50px;
+    float:center;
     font-weight: 800;
     color:  rgb(0, 255, 200);
 }
@@ -86,7 +86,9 @@ h3 {
     max-width: 60px;
     margin-left: 15px;
 }
-
+.card {
+    margin-top: 40px;
+}
 .btn-contact {
     color:rgb(85, 84, 84);
     background-color: rgb(0, 255, 200);
