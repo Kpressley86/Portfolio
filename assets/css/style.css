@@ -162,4 +162,6 @@ span:nth-child(even){
 
 /* END OF BINARY THEME */
 
-
+.row {
+    margin-right: 0px;
+}
