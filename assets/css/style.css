@@ -48,6 +48,7 @@ a:link {
   
   .c-wrapper {
       margin: auto;
+      padding-bottom: 275px;
   }
   
   .carousel-inner {
