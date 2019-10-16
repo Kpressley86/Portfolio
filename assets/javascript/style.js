@@ -12,7 +12,7 @@ $(document).ready(function () {
         $(".hidden").show(6000);
     });
 
-
+    // OnClick FOR LOGO //
     $("#logo").click(function () {
         document.location.href = "./index.html";
     });

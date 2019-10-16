@@ -67,6 +67,10 @@ a:link {
     visibility: hidden;
   }
 
+  .z-up {
+    z-index: auto;
+  }
+
   #no-smoke {
     animation: none;
   }
